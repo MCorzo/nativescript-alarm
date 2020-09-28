@@ -1,9 +1,5 @@
 android { 
-    productFlavors {
-        "nativescript-alarm" {
-            dimension "nativescript-alarm"
-        }
-    }
+
 }
 
 dependencies {
